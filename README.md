@@ -36,7 +36,7 @@ Mengyue: Javascript, BMI API, JQuery, CSS, mockup
 Kyle: API research, Postman, html, Presentation, README
 
 # Website Deployment links
-Repository : https://github.com/kinziva/Project1G4
-Application : https://kinziva.github.io/Project1G4/
+Repository : https://github.com/KBear3/Project1G4
+Application : https://KBear3.github.io/Project1G4/
 
 
